@@ -131,3 +131,10 @@ while take_orders:
 # Check remaining resources
         remaining_resources(resources, water_needed(MENU, drink), coffee_needed(MENU,drink), milk_needed(MENU,drink))
  
+
+
+
+
+
+
+
